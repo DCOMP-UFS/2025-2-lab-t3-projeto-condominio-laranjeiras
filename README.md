@@ -13,17 +13,17 @@
 
 Materialidades da Vida e Morte na Costa Brasileira - https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-ellensntoss.git
 
-Sensos e Sociedade - 
+Sensos e Sociedade - https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-jfasr
 
-Laboratório de Projeto, Ensino e Memória - 
+Laboratório de Projeto, Ensino e Memória - https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-raviproenca
 
 
 #3. Técnicos Responsáveis: 
 
 Coordenador de Projeto - Ellen Karolliny dos Santos - @ellensntoss
 
-Assistentes de Atas - João Filipe de Araujo Santos Rezende - @
+Assistentes de Atas - João Filipe de Araujo Santos Rezende - @jfasr
 
-Tesoureiro - Ravi Ribeiro Proneça - @
+Tesoureiro - Ravi Ribeiro Proneça - @raviproenca
 
 
